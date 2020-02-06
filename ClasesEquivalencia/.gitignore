@@ -1,8 +1,12 @@
-
+target/
 .classpath
 .project
-target/
+
+
+
 
 .settings
 
+
 aerodescuentos-1.0.0.jar
+
