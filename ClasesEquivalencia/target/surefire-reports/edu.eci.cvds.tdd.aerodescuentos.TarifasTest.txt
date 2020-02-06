@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: edu.eci.cvds.tdd.aerodescuentos.TarifasTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in edu.eci.cvds.tdd.aerodescuentos.TarifasTest
-initializationError(edu.eci.cvds.tdd.aerodescuentos.TarifasTest)  Time elapsed: 0 s  <<< ERROR!
-java.lang.NoClassDefFoundError: Ledu/eci/cvds/tdd/aerodescuentos/CalculadorDescuentos;
-Caused by: java.lang.ClassNotFoundException: edu.eci.cvds.tdd.aerodescuentos.CalculadorDescuentos
-
